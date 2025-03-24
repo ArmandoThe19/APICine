@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICine", "APICine.csproj", "{B975829E-7140-4A20-AD01-65A50E5760CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B975829E-7140-4A20-AD01-65A50E5760CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B975829E-7140-4A20-AD01-65A50E5760CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B975829E-7140-4A20-AD01-65A50E5760CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B975829E-7140-4A20-AD01-65A50E5760CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B319A754-9C6B-4A43-833A-BD79129EF9A3}
+	EndGlobalSection
+EndGlobal
